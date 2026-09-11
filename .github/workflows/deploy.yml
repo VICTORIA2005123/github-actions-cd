@@ -17,4 +17,8 @@ jobs:
         run: |
           echo "Building application..."
           echo "Running deployment..."
+<<<<<<< HEAD
           echo "Application deployed successfully!"
+=======
+          echo "Application deployed successfully!"
+>>>>>>> 9b707297ab0d87291724590706339270f7d2621e
